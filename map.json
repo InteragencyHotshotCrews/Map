@@ -1,0 +1,16 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [42.834735331045756, -112.40554111078752]
+      },
+      "properties": {
+        "marker-color": "#ff0000",
+        "name": "Snake River",
+      }
+    }
+  ]
+}
