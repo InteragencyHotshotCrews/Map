@@ -9,7 +9,9 @@
       },
       "properties": {
         "marker-color": "#ff0000",
-        "name": "Snake River",
+        "crew": "Snake River"
+        "address": null,
+        "phone": null
       }
     }
   ]
