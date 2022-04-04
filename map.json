@@ -9,6 +9,7 @@
       },
       "properties": {
         "marker-color": "#ff0000",
+        "marker-image": "home",
         "crew": "Snake River",
         "address": null,
         "phone": null
