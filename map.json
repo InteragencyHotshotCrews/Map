@@ -5,14 +5,30 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-112.40554111078752, 42.834735331045756]
+        "coordinates": [-112.4063388, 42.8355947]
       },
       "properties": {
         "marker-color": "#ff0000",
         "marker-symbol": "home",
         "crew": "Snake River",
-        "address": null,
-        "phone": null
+        "address": "4350 Cliffs Drive, Pocatello, ID 83204",
+        "phone": null,
+        "url": null
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.7036997, 35.7288416]
+      },
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-symbol": "home",
+        "crew": "Fulton",
+        "address": "Glennville, CA 93226",
+        "phone": null,
+        "url": null
       }
     }
   ]
